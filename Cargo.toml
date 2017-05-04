@@ -1,0 +1,10 @@
+[package]
+name = "jasc-and-gpl"
+description = "A tool to convert between JASC and GIMP palettes"
+version = "0.1.0"
+authors = ["Taryn Hill <taryn@phrohdoh.com>"]
+
+[dependencies]
+chariot_palette = "0.1"
+gimp_palette = "0.1"
+clap = "2.23"
