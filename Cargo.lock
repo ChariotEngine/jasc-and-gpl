@@ -1,10 +1,10 @@
 [root]
-name = "jasc-to-gpl"
+name = "jasc-and-gpl"
 version = "0.1.0"
 dependencies = [
- "chariot_palette 0.1.0 (registry+https://github.com/rust-lang/crates.io-index)",
+ "chariot_palette 0.1.1 (registry+https://github.com/rust-lang/crates.io-index)",
  "clap 2.23.3 (registry+https://github.com/rust-lang/crates.io-index)",
- "gimp_palette 0.1.0 (registry+https://github.com/rust-lang/crates.io-index)",
+ "gimp_palette 0.1.1 (registry+https://github.com/rust-lang/crates.io-index)",
 ]
 
 [[package]]
@@ -57,7 +57,7 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 
 [[package]]
 name = "chariot_palette"
-version = "0.1.0"
+version = "0.1.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 dependencies = [
  "error-chain 0.5.0 (registry+https://github.com/rust-lang/crates.io-index)",
@@ -102,7 +102,7 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 
 [[package]]
 name = "gimp_palette"
-version = "0.1.0"
+version = "0.1.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 
 [[package]]
@@ -171,12 +171,12 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 "checksum backtrace-sys 0.1.10 (registry+https://github.com/rust-lang/crates.io-index)" = "d192fd129132fbc97497c1f2ec2c2c5174e376b95f535199ef4fe0a293d33842"
 "checksum bitflags 0.8.2 (registry+https://github.com/rust-lang/crates.io-index)" = "1370e9fc2a6ae53aea8b7a5110edbd08836ed87c88736dfabccade1c2b44bff4"
 "checksum cfg-if 0.1.0 (registry+https://github.com/rust-lang/crates.io-index)" = "de1e760d7b6535af4241fca8bd8adf68e2e7edacc6b29f5d399050c5e48cf88c"
-"checksum chariot_palette 0.1.0 (registry+https://github.com/rust-lang/crates.io-index)" = "50cc468b4e1bf8b1cd1ee7213be4d05310152ff3c23a6402e8ab8d8e04bbc3c9"
+"checksum chariot_palette 0.1.1 (registry+https://github.com/rust-lang/crates.io-index)" = "75924e4877d1b79807013a392903b7ad83074c4add9deaef41c6f72ee9287db2"
 "checksum clap 2.23.3 (registry+https://github.com/rust-lang/crates.io-index)" = "f57e9b63057a545ad2ecd773ea61e49422ed1b1d63d74d5da5ecaee55b3396cd"
 "checksum dbghelp-sys 0.2.0 (registry+https://github.com/rust-lang/crates.io-index)" = "97590ba53bcb8ac28279161ca943a924d1fd4a8fb3fa63302591647c4fc5b850"
 "checksum error-chain 0.5.0 (registry+https://github.com/rust-lang/crates.io-index)" = "bd5c82c815138e278b8dcdeffc49f27ea6ffb528403e9dea4194f2e3dd40b143"
 "checksum gcc 0.3.45 (registry+https://github.com/rust-lang/crates.io-index)" = "40899336fb50db0c78710f53e87afc54d8c7266fb76262fecc78ca1a7f09deae"
-"checksum gimp_palette 0.1.0 (registry+https://github.com/rust-lang/crates.io-index)" = "86a4af674f042631e75d5a1201c21e65a5fa34dfa2d331b5b85cb69c95fe2fb3"
+"checksum gimp_palette 0.1.1 (registry+https://github.com/rust-lang/crates.io-index)" = "e2ab8d53d8a2ad644f6a0f7271b6df57c441d6fa564bc0ab23981b9e0976cdda"
 "checksum kernel32-sys 0.2.2 (registry+https://github.com/rust-lang/crates.io-index)" = "7507624b29483431c0ba2d82aece8ca6cdba9382bff4ddd0f7490560c056098d"
 "checksum libc 0.2.22 (registry+https://github.com/rust-lang/crates.io-index)" = "babb8281da88cba992fa1f4ddec7d63ed96280a1a53ec9b919fd37b53d71e502"
 "checksum rustc-demangle 0.1.4 (registry+https://github.com/rust-lang/crates.io-index)" = "3058a43ada2c2d0b92b3ae38007a2d0fa5e9db971be260e0171408a4ff471c95"
