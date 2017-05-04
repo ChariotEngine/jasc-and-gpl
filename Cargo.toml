@@ -1,6 +1,7 @@
 [package]
 name = "jasc-and-gpl"
 description = "A tool to convert between JASC and GIMP palettes"
+license = "MIT"
 version = "0.1.0"
 authors = ["Taryn Hill <taryn@phrohdoh.com>"]
 
